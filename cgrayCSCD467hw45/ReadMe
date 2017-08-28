@@ -1,0 +1,13 @@
+Name: Caleb Gray
+Description: unzip cgrayCSCD467hw45.zip
+To Compile: cd cgrayCSCD467hw45,
+			javac *.java
+To run the GUI:
+			java  ArithmeticServer
+			java  ArithmeticClient
+			enter localhost to run
+To run the tester:
+			java  ArithmeticServer
+			java TestClient
+			this is set for 10 clients but can be changed in the MAXCLIENT var. Test mode does not give results just server, client, thread interaction.	
+						
